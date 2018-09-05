@@ -1,3 +1,3 @@
 # my_first_repository
 
-Created my first repository as a Holberton student, yay!
+Learned how to add files to git & commit & push them. Also learned how to create a new branch & switch between branches in the command line. 
